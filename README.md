@@ -14,8 +14,8 @@ I’m transitioning into Cloud to build a durable career, solve real problems, a
 - Wrote this public proof log
 - Next up: S3 + IAM “Public Access Problem” lab
 
-**Projects (live/soon)**
-(whatever projects or workshops you will do)
+**Projects (Coming live/soon)**
+
 
 **How I document**
 Each project includes: problem → approach → commands/code → screenshots →
